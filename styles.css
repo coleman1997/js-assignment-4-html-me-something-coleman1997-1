@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    padding: 25px;
+    display: block;
+    background-color: antiquewhite;
+    text-align: center;
+    list-style: inside;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    font-size: large;
+    color: green;
+    border-style: solid;
+    border-color: black;
+}
+p {
+    font-size: large;
+}
